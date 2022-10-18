@@ -1,0 +1,157 @@
+000000000DATA DE GERACAO DO ARQUIVO: 28/11/20              00000000000000000000000000000                                                                                               
+110000030ABELIO JOAQUIM GOMES                              00001559605120110519900151202ITABERAI - GO                                                                                  
+110000153MARIA BARBOSA DE BARROS                           00001588672115061119890151202ITAUCU - GO                                                                                    
+110000277JUVENIL JOSE DE ANDRADE                           00001203029187301119890115600ANICUNS - GO                                                                                   
+110000323JUAREZ GERALDO AFONSO VIEIRA                      00012302910168101119890115600ITAUCU - GO                                                                                    
+110000501SAUL DE PAULA SILVEIRA                            00001611577187141119890151201ITAUCU - GO                                                                                    
+110000510SIMININO RODRIGUES DE SIQUEIRA                    00001158546149100819920115600CALDAZINHA - GO                                                                                
+110000714VALDOMIRO VICENTE GRACIANO                        00000247359149020519910151202ANICUNS - GO                                                                                   
+110000773LUIZ GARCES DE ARAUJO                             00001590600100241119890134200ITAUCU - GO                                                                                    
+110000781ADOLFO GARCES DE ARAUJO                           00001590480104211119890134200ITAUCU - GO                                                                                    
+110000803JOSE FRANCISCO MENDANHA                           00001588753115041219900151202ITAUCU - GO                                                                                    
+110000838ALDO BARBOSA TEIXEIRA                             00003542700100091119890151201ITAUCU - GO                                                                                    
+110000978IVAN TEODORO PIMENTA                              00007534817153200419950151202BELA VISTA DE GOIAS - GO                                                                       
+110001010MAURICIO PRAXEDES DOS SANTOS                      00001588699153130619900115600ITAUCU - GO                                                                                    
+110001036ANTONIO JOSE DIAS                                 00009112693120221120130115600ITAUCU - GO                                                                                    
+110001095WALDOMIRA ALVES DA COSTA                          00012867950104081219970151201ANICUNS - GO                                                                                   
+110001230EURIPEDES LEAO DE SA                              00003831663149211119900151202TRINDADE - GO                                                                                  
+110001249JOACIR AFONSO VIEIRA                              00006703712115210519900151201ITAUCU - GO                                                                                    
+110001257JOANA PAULA DE ALCANTARA                          00027409252120210219970151202ARAGOIANIA - GO                                                                                
+110001362JOSE MONTEIRO FILHO                               00005869811104261219890133402ARACU - GO                                                                                     
+110001370WALFREDO NASCIMENTO COSTA                         00001588060187061119890151202ITAUCU - GO                                                                                    
+110001397JOSE FERREIRA DA COSTA ALQUIMIM                   00002064030115141020160151201ITAUCU - GO                                                                                    
+110001508ANTONIO GOULART DE CASTRO                         00005435498104231119890111302ARACU - GO                                                                                     
+110001524PAULO ALVES DE FREITAS                            00020517505800091119890151202TRINDADE - GO                                                                                  
+110001591MODESTINO ALVES PINTO                             00001876384115271119890115600AVELINOPOLIS - GO                                                                              
+110001621SAMUEL TAVARES CAETANO                            00000265764149101119890151202CAMPESTRE DE GOIAS - GO                                                                        
+110001664HERMINIO MANOEL DE ARAUJO                         00004916700104201119890151202AVELINOPOLIS - GO                                                                              
+110001672JOSE EDESIO FERREIRA                              00001692810197021019970151202CAMPESTRE DE GOIAS - GO                                                                        
+110001753GERZI RODRIGUES DOS SANTOS                        00001249495172131119890151202CAMPESTRE DE GOIAS - GO                                                                        
+110001796MISHAO ITII                                       00001403435120071119890121101NEROPOLIS - GO                                                                                 
+110001834MISHAO ITII                                       00001403435120071119890115600NEROPOLIS - GO                                                                                 
+110001877ANTONIO RIBEIRO DE OLIVEIRA                       00006880150187201119890111302AVELINOPOLIS - GO                                                                              
+110001907VALDEMAR VICENTE FERREIRA                         00006969763153011219890115600AVELINOPOLIS - GO                                                                              
+110001958JOSE RODRIGUES DA SILVA                           00009081984187160319900121101NEROPOLIS - GO                                                                                 
+110002075JOSE RIBEIRO DOS SANTOS                           00001457322153101119890121101NEROPOLIS - GO                                                                                 
+110002091MANOEL LUCIO DE PASSOS                            00001790730104221119890115600AVELINOPOLIS - GO                                                                              
+110002113ADAIL LAZARO ALVES                                00004976037134261120120121101NEROPOLIS - GO                                                                                 
+110002164SAID RASSI                                        00000265454115241019890115600NEROPOLIS - GO                                                                                 
+110002199JOSE CARLOS XAVIER                                00006105521120081119890119902NEROPOLIS - GO                                                                                 
+110002229JUVENILO JOSE PEREIRA                             00005852307149010220160121101NEROPOLIS - GO                                                                                 
+110002245BENEDITO PEREIRA MACIEL                           00001296973115090919930111302AVELINOPOLIS - GO                                                                              
+110002270OLIVEIRO JOSE TELES                               00008335346100131119890115600NEROPOLIS - GO                                                                                 
+110002288JOAO FERREIRA RAMOS                               00001411667115250919910151202NEROPOLIS - GO                                                                                 
+110002326SEBASTIAO SALOME CORREIA                          00001804383104271019890115600AVELINOPOLIS - GO                                                                              
+110002342GENNARO FINIZIO                                   00000274755149200620070151202NEROPOLIS - GO                                                                                 
+110002466DANIEL RIBEIRO DE CASTRO                          00001421140144091119890151202NEROPOLIS - GO                                                                                 
+110002555LENITA CAETANO DA SILVA                           00001876236191041219890115600AVELINOPOLIS - GO                                                                              
+110002571JOAQUIM CORREIA PEREZ                             00001876201134061119890115600AVELINOPOLIS - GO                                                                              
+110002628ANDRE DA SILVA                                    00001594508100061119890115600CATURAI - GO                                                                                   
+110002652EDISON SBEROWSKI PACO                             00000277649153051219890151202AVELINOPOLIS - GO                                                                              
+110002709PLACIDIO VICENTE FERREIRA                         00006879977120231119890115600AVELINOPOLIS - GO                                                                              
+110002725ANTENOR QUALHATO                                  00001588826104040519900151201CATURAI - GO                                                                                   
+110002806ANTONIO DAMASO DE LIMA                            00001481312120290120160151202DAMOLANDIA - GO                                                                                
+110002865JOSE PAULINO DE MELO                              00001491865172101119890151202DAMOLANDIA - GO                                                                                
+110002873MANOEL BRAZ DE FRANCA                             00001598317172290320100151202ARACU - GO                                                                                     
+110002881JOSE PAULINO DE MELO                              00001491865172101119890151202DAMOLANDIA - GO                                                                                
+110002890ESPOLIO DE JOSE GONCALVES COSTA                   00001612042104260920010111302ARACU - GO                                                                                     
+110002903MANOEL ROCHA DE OLIVEIRA                          00001481479172101119890115600DAMOLANDIA - GO                                                                                
+110002911CONCEICAO GONCALVES DE OLIVEIRA                   00002707977187100619920111302ARACU - GO                                                                                     
+110002938OSMAR ANTONIO CUNHA                               00008373183191011219890151202ARACU - GO                                                                                     
+110002946ELADIO MENDONCA LOURES                            00001481282115241119890151202DAMOLANDIA - GO                                                                                
+110003055GUILHERMINO GONCALVES COSTA                       00001594770182221119890151201ARACU - GO                                                                                     
+110003110ARGEMIRO MARTINS BORGES                           00006859801115100719920151202DAMOLANDIA - GO                                                                                
+110003160PEDRO FRANCISCO DE SOUZA                          00001249053153091119890151202NAZARIO - GO                                                                                   
+110003233JOAO VAZ PINTO                                    00014909774149161119890151202NAZARIO - GO                                                                                   
+110003250VALDECH DOMINGOS DE FREITAS                       00003667286104161019890151201NAZARIO - GO                                                                                   
+110003276MANOEL MARTINS DA COSTA                           00018701280104050219900151202NAZARIO - GO                                                                                   
+110003373ANTONIO THEODORO DE REZENDE                       00000393894134030519960151202ABADIA DE GOIAS - GO                                                                           
+110003381LUIZ DE ALMEIDA NUNES                             00005313473115041219890151202NAZARIO - GO                                                                                   
+110003470REGINALDO BENTO PEREIRA                           00001171569149071119890151202NEROPOLIS - GO                                                                                 
+110003500GERALDO RESENDE                                   00000272744115050519920151201GOIANIA - GO                                                                                   
+110003608ZOROASTRO JOAQUIM FERREIRA                        00006003761172161119890151202SANTA ROSA DE GOIAS - GO                                                                       
+110003616REISEI TOGUCHI                                    00010126856168030519960155501ABADIA DE GOIAS - GO                                                                           
+110003632UBIRAJARA ALVES ABBUD                             00000292990120040520010151202GOIANIA - GO                                                                                   
+110003713JOVINO BORGES                                     00001402420153060919960151202GOIANIA - GO                                                                                   
+110003748AUGUSTO PEREIRA TEIXEIRA                          00006887953153020119910151202GOIANIA - GO                                                                                   
+110003772SEBASTIAO MANOEL CARRIJO                          00001589660153091119890115600SANTA ROSA DE GOIAS - GO                                                                       
+110003845ISAIAS ANTONIO DE SOUSA                           00001439332134091119890151202SANTA ROSA DE GOIAS - GO                                                                       
+110003870JOAQUIM QUEIROZ DA MOTA                           00001179144104071119890151202VARJAO - GO                                                                                    
+110003993ROQUE DA COSTA FERREIRA                           00000293385149311019890151202VARJAO - GO                                                                                    
+110004000ORLANDO ALVES ROSA                                00012189405149160720200151201VARJAO - GO                                                                                    
+110004086SIVALDO SARDEIRO DE OLIVEIRA                      00004700155191291119890151202PETROLINA DE GOIAS - GO                                                                        
+110004116JOAQUIM BRITO DAS NEVES                           00001333771134130619900151202PETROLINA DE GOIAS - GO                                                                        
+110004183JOAO VIEIRA FILHO                                 00006899340178081119890151202PETROLINA DE GOIAS - GO                                                                        
+110004230IDERLINO GOMIDE                                   00001506293115161119900151202PETROLINA DE GOIAS - GO                                                                        
+110004248JOAQUIM TEIXEIRA DE MENDONCA                      00009135499168190319900151202PETROLINA DE GOIAS - GO                                                                        
+110004272JOVELINA MAIA DE ALMEIDA                          00026388316115100519900151202PETROLINA DE GOIAS - GO                                                                        
+110004370IZOLDINO ALVES DA SILVA                           00005209471187201119890119902INHUMAS - GO                                                                                   
+110004426GERALDO ALVES CABRAL                              00001615866191301019890121101INHUMAS - GO                                                                                   
+110064208JOSE RAMOS MOREIRA                                00003963403187120619920115600JARAGUA - GO                                                                                   
+110004515CLARIMUNDO JOSE RODRIGUES                         00001450778100170919900115600GOIANIA - GO                                                                                   
+110004531JOAO FERREIRA LOPES                               00002064804153291119890154700INHUMAS - GO                                                                                   
+110004540SEBASTIAO ARPA DA SILVA                           00001405446153130319900151202GOIANIA - GO                                                                                   
+110004558ORLANDO RODRIGUES DOS SANTOS                      00000507890159101119890115600PALMEIRAS DE GOIAS - GO                                                                        
+110004639ADAYR ARAUJO                                      00001432532120030519960155501ABADIA DE GOIAS - GO                                                                           
+110004760SEBASTIAO DE SOUZA BRUNO                          00001685112153300419900151202PALMEIRAS DE GOIAS - GO                                                                        
+110004817ANTENOR BENTO XAVIER                              00001591819172170519900151202INHUMAS - GO                                                                                   
+110004850JOSIAS LUIZ GUIMARAES                             00000276952120111120190151202GOIANIA - GO                                                                                   
+110004906NELCO DE SOUZA MARTINS                            00001726811115101119890151202PALMEIRAS DE GOIAS - GO                                                                        
+110004930NELCO DE SOUZA MARTINS                            00001726811115101119890151202PALMEIRAS DE GOIAS - GO                                                                        
+110005007ORLANDO ALVES BARBOSA                             00001914618149050319920151202INHUMAS - GO                                                                                   
+110005015JOSE NUNES DE OLIVEIRA                            00000285307134031119890151202GOIANIA - GO                                                                                   
+110005066ATAIDES DE PAULA MACEDO                           00001703978153191020120151201PALMEIRAS DE GOIAS - GO                                                                        
+110005112JOVELINA MAIA DE ALMEIDA                          00026388316115100519900151202PETROLINA DE GOIAS - GO                                                                        
+110005147ANTONIO JACINTO DE OLIVEIRA                       00002704684120301119890151202INHUMAS - GO                                                                                   
+110005210ANTONIO LOPES VILA VERDE                          00001457640104090520120121101INHUMAS - GO                                                                                   
+110005236JOSE FERNANDES DA SILVA                           00007708920191061219890151202PETROLINA DE GOIAS - GO                                                                        
+110005260WAGNER PALMEIRA                                   00009365710120301119890151201INHUMAS - GO                                                                                   
+110005295FRANCISCO XAVIER DE SOUZA                         00001331787149171119890151202PETROLINA DE GOIAS - GO                                                                        
+110005317AURELIO SILVA                                     00001590740106301119890151202INHUMAS - GO                                                                                   
+110005341MANOEL DUARTE BORGES                              00001285645120080519900151202PETROLINA DE GOIAS - GO                                                                        
+110005384JOSE SOUTO DA SILVA                               00003997600163041219890151202PETROLINA DE GOIAS - GO                                                                        
+110005406UBIRAJARA COSTA                                   00000302953191011119890113000PETROLINA DE GOIAS - GO                                                                        
+110005449FRANCISCO PAULINO CORREA                          00001472232100241119890151202PETROLINA DE GOIAS - GO                                                                        
+110005546EDMUNDO GRANER MODES                              00001588265153301119890121101INHUMAS - GO                                                                                   
+110005554GERCINO PAULINO CORREIA                           00009592687153270319900151202PETROLINA DE GOIAS - GO                                                                        
+110005570ARMANDO PACHECO DA SILVA                          00001594176191180219900151202PETROLINA DE GOIAS - GO                                                                        
+110005651LOURIVAL JOAQUIM DE LIMA                          00001499165153081119890151202PETROLINA DE GOIAS - GO                                                                        
+110005740VALDOMIRO QUALHATO                                00001594095191301119890121101INHUMAS - GO                                                                                   
+110005759ROBERTO EGIDIO BALESTRA                           00001611500125090820190134200INHUMAS - GO                                                                                   
+110005767MARCOMIRO ALEXANDRINO DE MEDEIROS                 00000178888168070319900151202INHUMAS - GO                                                                                   
+110005813BENEDITO ALVES NETO                               00001591410100300519900119902INHUMAS - GO                                                                                   
+110005848JERONIMO ANTONIO FERREIRA                         00001611658187131119890151202INHUMAS - GO                                                                                   
+110005872LAMARTINE ALEXANDRINO DE MEDEIROS                 00001290657149161119890151202INHUMAS - GO                                                                                   
+110005945JOSE HONORATO DE ARAUJO                           00001468804120030919900151202PETROLINA DE GOIAS - GO                                                                        
+110005988DIVINO RODRIGUES MENDONCA                         00012683973187300619950115600PETROLINA DE GOIAS - GO                                                                        
+110006003JACI SANTANA LIMA                                 00004245504153110919920151202COCALZINHO DE GOIAS - GO                                                                       
+110006054ANTONIO GONCALVES FERREIRA                        00004336836191210319900151202PETROLINA DE GOIAS - GO                                                                        
+110006119REINALDO GONTIJO DA SILVA                         00005567300115141120190151202ABADIANIA - GO                                                                                 
+110006186JOVIANO PINTO FERREIRA JUNIOR                     00003562280106020720140151202PALMEIRAS DE GOIAS - GO                                                                        
+110006208OSCAR NEIAS DE CARVALHO                           00004709829187301119890151202PETROLINA DE GOIAS - GO                                                                        
+110006267PEDRO PEREIRA DE BRITO                            00012366463120030219970121101ANAPOLIS - GO                                                                                  
+110006305JOSE LOURENCO DA SILVA                            00002121913149190619980151202PALMEIRAS DE GOIAS - GO                                                                        
+110006313OSVALDO CASSIANO DE FARIA                         00010681825391120920130151201PALMEIRAS DE GOIAS - GO                                                                        
+110006380ELBIO MARQUES DE ALVARENGA                        00001458027104110720120151201ANAPOLIS - GO                                                                                  
+110006496BOULANGER PRUDENTE                                00000489476600311019890151201PALMEIRAS DE GOIAS - GO                                                                        
+110006615ORIPEDES LUIZ DE OLIVEIRA                         00001684655153190620130151202PALMEIRAS DE GOIAS - GO                                                                        
+110006658ANTONIO BARBOSA NETO                              00001726935191021219930151202PALMEIRAS DE GOIAS - GO                                                                        
+110006771JUVERCINO MARTINS DA SILVA                        00024368695100291219890115600AVELINOPOLIS - GO                                                                              
+110006810JUSTINO PACHECO DOS SANTOS                        00001896679153261219890151202AVELINOPOLIS - GO                                                                              
+110006917VALDECIR PEREIRA DE ASSIS                         00003904911104100319920151202PALMEIRAS DE GOIAS - GO                                                                        
+110006950CARLOS EDMUNDO NAHAS                              00012480010872301119890151201SILVANIA - GO                                                                                  
+110007077JAIR CUSTODIO DA SILVA                            00001677136120160319930151202ALOANDIA - GO                                                                                  
+110142691ALDORANDO PIRES ARANTES                           00005899281120260120120151201ACREUNA - GO                                                                                   
+110007093JOAQUIM FERNANDES DA COSTA                        00001691457191040420070115600ALOANDIA - GO                                                                                  
+110007107MANOEL RODRIGUES DE MENEZES                       00001677063149160419900151202ALOANDIA - GO                                                                                  
+110007166JAMIL BELMIRO FERREIRA                            00001675095191031019910151202ALOANDIA - GO                                                                                  
+110007220OVIDIO JOAQUIM DA SILVA                           00001291076115281119890151202ALOANDIA - GO                                                                                  
+110007247OVIDIO JOAQUIM DA SILVA                           00001291076115281119890151202ALOANDIA - GO                                                                                  
+110007301BRAZ MENDES FERREIRA                              00001679163191291119890151202ALOANDIA - GO                                                                                  
+110007344JOAO BATISTA TIBIRICA                             00008582238134190719990151202ALOANDIA - GO                                                                                  
+110007352NATAL CANDIDO RIBEIRO                             00011780860110060920180151202ALOANDIA - GO                                                                                  
+110007395ALANO SOARES DE OLIVEIRA                          00001675516120161119890151201ALOANDIA - GO                                                                                  
+110007433JOSE ALVES FARIA                                  00005895448100121219890151202ALOANDIA - GO                                                                                  
+110007468JOAO ANTONIO MATIAS                               00001721615172190219900151202ALOANDIA - GO                                                                                  
+110007476ALCIDES LOPES DA SILVEIRA                         00054645760882270420170151202ALOANDIA - GO                                                                                  
+110007484JOSE SOARES DE OLIVEIRA FIM                        00001692011120080619900151202ALOANDIA - GO                                                                                 
